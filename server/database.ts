@@ -46,7 +46,7 @@ async function seedDatabase() {
     
     await Expert.create([
       {
-        name: "Dr. Alice Morgan",
+        name: "Dr. Shreyash Jokare",
         category: "Software Engineering",
         experience: 12,
         rating: 4.9,
@@ -56,7 +56,7 @@ async function seedDatabase() {
         ]
       },
       {
-        name: "John Doe",
+        name: "Pratik Johnson",
         category: "Product Management",
         experience: 8,
         rating: 4.7,
@@ -66,7 +66,7 @@ async function seedDatabase() {
         ]
       },
       {
-        name: "Emma Davis",
+        name: "Ashish David",
         category: "Design",
         experience: 6,
         rating: 4.8,
